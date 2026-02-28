@@ -1,0 +1,5 @@
+{
+    "python.analysis.autoImportCompletions": false,     
+    "github.copilot.inlineSuggest.enable": false,
+    "editor.inlineSuggest.enabled": false
+}
